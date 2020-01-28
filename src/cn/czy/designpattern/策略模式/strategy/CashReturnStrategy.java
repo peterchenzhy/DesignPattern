@@ -7,7 +7,7 @@ import java.math.BigDecimal;
  *
  * @author PeterChen
  * @summary CashReturnStrategy
- * @Copyright (c) 2019, Lianjia Group All Rights Reserved.
+ * @Copyright (c) 2019, peterChen All Rights Reserved.
  * @Description CashReturnStrategy
  * @since 2019-12-29 16:06
  */

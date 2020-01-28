@@ -7,7 +7,7 @@ import cn.czy.designpattern.策略模式.dto.PayBill;
  *
  * @author PeterChen
  * @summary PayStrategyFactory
- * @Copyright (c) 2019, Lianjia Group All Rights Reserved.
+ * @Copyright (c) 2019, peterChen All Rights Reserved.
  * @Description PayStrategyFactory
  * @since 2019-12-29 16:30
  */
